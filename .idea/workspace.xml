@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d052c9b-53c6-41d5-8296-2586d80528b7" name="Changes" comment="[DoanTC] architect source">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/appbanhang/views/SampleView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appbanhang/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appbanhang/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appbanhang/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appbanhang/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appbanhang/controllers/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appbanhang/controllers/SampleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appbanhang/models/SampleModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appbanhang/models/SampleModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appbanhang/views/SampleView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="1d052c9b-53c6-41d5-8296-2586d80528b7" name="Changes" comment="[DoanTC] architect source" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="doantc/be-coding" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "doantc/be-coding",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
@@ -78,6 +68,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.HelloApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711173278730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[DoanTC] architect source">
+      <option name="closed" value="true" />
+      <created>1711175260205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711175260205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

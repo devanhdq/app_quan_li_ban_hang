@@ -163,10 +163,6 @@
                             <include>src/main/java/**/*.java</include> <!-- Check application code -->
                             <include>src/test/java/**/*.java</include>
                         </includes>
-                        <indent>
-                            <tabs>true</tabs>
-                            <spacesPerTab>4</spacesPerTab>
-                        </indent>
                         <googleJavaFormat>
                             <version>1.15.0</version>
                             <style>GOOGLE</style>
