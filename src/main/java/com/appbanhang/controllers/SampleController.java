@@ -1,4 +1,3 @@
 package com.appbanhang.controllers;
 
-public class SampleController {
-}
+public class SampleController {}
